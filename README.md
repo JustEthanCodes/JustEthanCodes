@@ -14,7 +14,7 @@ Hi! My name is Ethan, a teen developer from the UK. Ever since getting a Raspber
 From web apps, to silly python scripts, I really make what ever comes to mind. Take a look at my stats and stack below:
 
 ## Tech & Stats 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=JustEthan-sh&theme=catppuccin_mocha)
+![My GitHub stats](https://ghrmstats-selfhost-personal.vercel.app//api?username=JustEthan-sh&theme=catppuccin_mocha)
 
 ![My Tech Stack](assets/tech.png)
 
