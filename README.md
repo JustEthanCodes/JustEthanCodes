@@ -14,12 +14,38 @@ Hi! My name is Ethan, a teen developer from the UK. Ever since getting a Raspber
 From web apps, to silly python scripts, I really make what ever comes to mind. Take a look at my stats and stack below:
 
 ## Tech & Stats 
-![My GitHub stats](https://ghrmstats-selfhost-personal.vercel.app//api?username=JustEthanCodes&theme=catppuccin_latte)
 
-![My Tech Stack](assets/tech.png)
+
+### Languages
+![Programming Languages](https://skills.syvixor.com/api/icons?perline=15&i=angularjs,astro,css,flutter,go,html,java,javascript,kotlin,nextjs,nodejs,python,reactjs,rust)
+
+### Apps I use
+#### Development
+![Development Apps](https://skills.syvixor.com/api/icons?perline=15&i=androidstudio,claudeai,cursor,docker,geminicli,gitbash,github,githubcopilot,visualstudiocodeinsiders,visualstudio)
+
+#### Creativity
+![Creativity Apps](https://skills.syvixor.com/api/icons?perline=15&i=adobeexpress,affinity,aseprite,blender,canva,figma,replit)
+
+#### On the Cloud
+![Apps I use for cloud services or web hosting](https://skills.syvixor.com/api/icons?perline=15&i=firebase,firebaseailogic,firebaseauthentication,firebasecloudfirestore,firebasestudio,githubpages,googlecloud,googlecolaboratory,railway,render,vercel)
+
+#### For the Youtube
+![OBS, Davinci Resolve, then Youtube](https://skills.syvixor.com/api/icons?perline=15&i=obs,davinciresolve,youtube)
+#### General Apps
+**Browser:**
+
+![Chrome](https://skills.syvixor.com/api/icons?perline=15&i=googlechrome)
+
+**Notes:**
+
+![Obsidian.md](https://skills.syvixor.com/api/icons?perline=15&i=obsidian)
+
+**Office-like apps:**
+
+![Basically just Google Workspace lol](https://skills.syvixor.com/api/icons?perline=15&i=gmail,googledrive,googledocs,googlesheets,googleslides,googleforms,googlegemini)
+
 
 ## What else do I do?
-I don't just code here! I am a solo developer at [Neo Studios](https://github.com/Neo-Studios), and have assisted with many projects over at [BuildOne](https://github.com/BuildOneRobotics). 
+I don't just code here! I am a solo developer at [Eura Industries](https://github.com/Eura-Industries), you should come check it out!
 
->[!NOTE]
-> Hey! Quick note: the wonderful people over at https://github.com/anuraghazra/github-readme-stats are having some issues at the moment, so the stats will be broken for a while. 
+
