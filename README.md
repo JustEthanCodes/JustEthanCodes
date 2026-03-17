@@ -27,7 +27,7 @@ From web apps, to silly python scripts, I really make what ever comes to mind. T
 ![Creativity Apps](https://skills.syvixor.com/api/icons?perline=15&i=adobeexpress,affinity,aseprite,blender,canva,figma,replit)
 
 #### On the Cloud
-![Apps I use for cloud services or web hosting](https://skills.syvixor.com/api/icons?perline=15&i=firebase,firebaseailogic,firebaseauthentication,firebasecloudfirestore,firebasestudio,githubpages,googlecloud,googlecolaboratory,railway,render,vercel)
+![Apps I use for cloud services or web hosting](https://skills.syvixor.com/api/icons?perline=15&i=firebase,firebaseauthentication,firebasecloudfirestore,firebasestudio,githubpages,googlecloud,googlecolaboratory,railway,render,vercel)
 
 #### For the Youtube
 ![OBS, Davinci Resolve, then Youtube](https://skills.syvixor.com/api/icons?perline=15&i=obs,davinciresolve,youtube)
