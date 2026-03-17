@@ -5,13 +5,13 @@
   
   <br>
 
-# My Profie 🦆 
+# My Profie ☕ 
 
 </div>
 
 
-Hi! My name is Ethan, a teen developer from the UK. Ever since getting a Raspberry Pi for my 7th birthday, I have always wanted to make things for people. 
-From web apps, to silly python scripts, I really make what ever comes to mind. Take a look at my stats and stack below:
+Hi! My name is Ethan, a teen developer from Peterborough in the UK. Ever since getting a Raspberry Pi for my 7th birthday, I have always wanted to make things for people. 
+From web apps, to silly python scripts, I really make what ever comes to mind. Take a look at my stats(that don't appear to be working) and stack below:
 
 ## Tech & Stats 
 
