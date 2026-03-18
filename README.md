@@ -5,13 +5,13 @@
   
   <br>
 
-# My Profie ☕ 
+# My Profile ☕ 
 
 </div>
 
 
 Hi! I'm Ethan, a teen developer from Peterborough in the UK. Ever since getting a Raspberry Pi for my 7th birthday, I have always wanted to make things for people. 
-From web apps, to silly python scripts, I really make what ever comes to mind. Take a look at my stats(that don't appear to be working) and stack below:
+From web apps, to silly python scripts, I really make what ever comes to mind. Take a look at my stats and stack below:
 
 ## Tech & Stats 
 
@@ -47,5 +47,4 @@ From web apps, to silly python scripts, I really make what ever comes to mind. T
 
 ## What else do I do?
 I don't just code here! I am a solo developer at [Eura Industries](https://github.com/Eura-Industries), you should come check it out! I also do Minecraft content on Youtube [here](https://youtube.com/@JustEthanYay), with Vanilla-ish in full swing. 
-
 
